@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gatewaydemoparent" />
+        <module name="jikanxinwen-eureka" />
+        <module name="jikanxinwen-gateway" />
+        <module name="jikanxinwen-parent" />
+        <module name="jikanxinwen-service" />
       </profile>
     </annotationProcessing>
   </component>
